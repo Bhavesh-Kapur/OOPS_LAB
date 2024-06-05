@@ -1,7 +1,3 @@
-//Q1: write a java program to implement the concept of
-// importing classes form user defined package and created packages \
-
-
 import java.lang.Math;
 import java.util.*;   //using predefiend packages util and lang
 class Q1{

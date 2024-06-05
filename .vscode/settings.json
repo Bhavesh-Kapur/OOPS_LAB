@@ -2,8 +2,9 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
         "/Users/bhavesh/Documents/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0.jar",
-        "/Users/bhavesh/Documents/Tools/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0.jar",
-        "/Users/bhavesh/Documents/Tools/apache-tomcat-10.1.15/lib/servlet-api.jar"
+        "/Users/bhavesh/Documents/Tools/apache-tomcat-10.1.15/lib/servlet-api.jar",
+        "/Users/bhavesh/Documents/Tools/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0.jar"
     ],
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.debug.settings.onBuildFailureProceed": true
 }

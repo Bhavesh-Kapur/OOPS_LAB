@@ -1,8 +1,3 @@
-//Write a program to Balance this has an Account class with 
-//Display_Balance method(). Import balance package in 
-//another program to access display balance method() of account class 
-
-
 import Balance.Account;    //package Balance 
 import java.util.*;        //used for user input 
 public class Q2{

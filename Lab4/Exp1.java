@@ -1,6 +1,5 @@
 //wap to show that private member of a super class cant be derived from class
  
-
 class parent{
     private int pm;   //initialization of the private member
     public parent()

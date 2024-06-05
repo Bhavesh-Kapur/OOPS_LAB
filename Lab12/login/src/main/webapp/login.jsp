@@ -6,7 +6,7 @@
     <title>Login Page</title>
 </head>
 <body>
-    <form action="auth.jsp" method="post">
+    <form action="authenticate.jsp" method="post">
         <label for="username">Username:</label>
         <input type="text" id="username" name="username"><br><br>
         

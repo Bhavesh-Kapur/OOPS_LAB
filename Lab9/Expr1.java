@@ -1,6 +1,3 @@
-//Write a program to implement the concept of threading by extending Thread
-//Class and Runnable interface.
-
 
 class MyT extends Thread {                 //thread class
     public void run() {

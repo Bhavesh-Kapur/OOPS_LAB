@@ -11,7 +11,7 @@
         String password = request.getParameter("password");
 
         // Perform a simple authentication check (replace this with your actual authentication logic)
-        if ("ram".equals(username) && "1234".equals(password)) {
+        if ("Akshat Pandey".equals(username) && "Btech".equals(password)) {
             // Successful login, redirect to welcome page
             response.sendRedirect("welcome.jsp");
         } else {
